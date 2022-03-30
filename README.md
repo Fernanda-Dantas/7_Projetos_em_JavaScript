@@ -7,17 +7,24 @@
  
 
 1-  Typing Game (Jogo da digitação) 
- - Está pronto
+ - Níveis: fácil, médio e difícil
+ - Jogo onde o usuário precisa escrever uma palavra durante um determinado tempo.
  - Link:
  
  2- App de Meditação 
- - Código está aqui
+ - Tempos: 2 minutos, 5 minutos e 8 minutos
+ - Duas opções de som e imagem: chuva e praia
  - Link:
  
  3- Todo List 
+ - Adiciona, exclui e marca como feito os elementos que o usuário adiciona em sua lista.
  - [Link](https://codepen.io/fernanda-dantas/pen/xxprQVj)
  
  4- Gerador de senhas 
+ - Aplicação onde o usuário recebe uma senha
+ - Opções: letras maiúsculas, minúsculas, símbolos e números
+ - Limite de caracteres: 20
+ - Copia para o clipboard
  - [Link](https://codepen.io/fernanda-dantas/pen/yLpXxZr)
  
  5- Formulário com validação 
