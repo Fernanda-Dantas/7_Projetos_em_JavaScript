@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  height: 100vh; /* a tela toda como num app */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.seletor-tempo, .audios-site, .player-container {
+  height: 80%;
+  flex: 1;
+  display: flex;  /* deixa tudo em fila */
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.player-container {
+  position: relative;
+}
+
+.player-container svg {
+  position: absolute;
+  height: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-90deg);
+  pointer-events: none;
+}
+
+
+.mostra-tempo {
+  position: absolute;
+  bottom: 10%;
+  color: white;
+  font-size: 50px;
+}
+
+video {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  z-index: -10; /* coloca o vídeo como background */
+}
+
+
+.seletor-tempo button,
+.audios-site button {
+  color: white;
+  width: 30%;
+  height: 10%;
+  background: none;
+  border: 2px solid white;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 20px;
+  transition: all 0.5s ease;
+}
+
+.seletor-tempo button:hover {
+  color: black;
+  background: whitesmoke;
+}
+
+.audios-site button {
+  border: none;
+  height: 120px;
+  width: 120px;
+  border-radius: 50%; /* o height e o widith precisam ser os mesmos */
+  padding: 30px;
+}
+
+.audios-site button:nth-child(1) {
+  background: rgb(89, 89, 235);
+}
+
+.audios-site button:nth-child(2) {
+  background: rgb(248, 73, 42);
+}
+
+.audios-site button img {
+  height: 100%;
+}
