@@ -1,31 +1,44 @@
 # 7 Projetos com JavaScript
- 7 Projetos focados em Javascript
  
  Estudei JavasScript de forma prática com esses 7 projetos.
  
- Você pode encontrá-los aqui.
+ O link para acessar todos os projetos está [aqui](https://fernanda-dantas.github.io/7_App_em_JavaScript/).
  
 
 1-  Typing Game (Jogo da digitação) 
- - Está pronto
- - Link:
+ - Níveis: fácil, médio e difícil
+ - Jogo onde o usuário precisa escrever uma palavra durante um determinado tempo
+ - Adiciona pontos no score
+ - [Acessar](https://jogodadigitacao.netlify.app/)
  
  2- App de Meditação 
- - Código está aqui
- - Link:
+ - Tempos: 2 minutos, 5 minutos e 8 minutos
+ - Duas opções de som e imagem: chuva e praia
+ - [Acessar](https://meditas-app.netlify.app/)
  
  3- Todo List 
- - [Link](https://codepen.io/fernanda-dantas/pen/xxprQVj)
+ - Adiciona, exclui e marca como feito os elementos que o usuário adiciona em sua lista.
+ - [Acessar](https://codepen.io/fernanda-dantas/pen/xxprQVj)
  
  4- Gerador de senhas 
- - [Link](https://codepen.io/fernanda-dantas/pen/yLpXxZr)
+ - Aplicação onde o usuário recebe uma senha
+ - Opções: letras maiúsculas, minúsculas, símbolos e números
+ - Limite de caracteres: 20
+ - Copia para o clipboard
+ - [Acessar](https://codepen.io/fernanda-dantas/pen/yLpXxZr)
  
  5- Formulário com validação 
- - [Link](https://codepen.io/fernanda-dantas/pen/RwxgqRm)
+ - Verifica se os dados inseridos no formulário estão corretos
+ - [Acessar](https://codepen.io/fernanda-dantas/pen/RwxgqRm)
  
 6- Lista de Livros 
-- [Link](https://codepen.io/fernanda-dantas/pen/zYpzmmw)
+- Adiciona livros em uma lista 
+- Informações inseridas: livro, autor e ISBN
+- Opção de deletar o livro por meio do número do ISBN
+- [Acessar](https://codepen.io/fernanda-dantas/pen/zYpzmmw)
  
-7- Contagem regressiva 
-- Link:
+7- Contagem regressiva (Countdown)
+- Contagem regressiva de 24 horas
+- Temática: Gilmore Girls
+- [Acessar](https://24hr-dance-marathon.netlify.app/)
  
