@@ -4,6 +4,8 @@
  
  O link para acessar todos os projetos está [aqui](https://fernanda-dantas.github.io/7_App_em_JavaScript/).
  
+ ![7_projects_GIF](https://user-images.githubusercontent.com/81118959/169915307-5056b646-3585-4040-8aa6-81d94c0c67f4.gif)
+
 
 1-  Typing Game (Jogo da digitação) 
  - Níveis: fácil, médio e difícil
